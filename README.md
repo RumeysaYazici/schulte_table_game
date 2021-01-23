@@ -5,8 +5,8 @@
 The Schulte Table Game includes;
 - A grid with numbers from 1 to 25 on it (It is 5x5 box.),
 - A stopwatch that starts as soon as you hit a number, 
-- A line that holds the last pressed number, 
-- A line that holds the best score, 
+- A row that holds the last pressed number, 
+- A row that holds the best score, 
 - An information box that appears and says 'Yes! IT IS FINISHED! "Total Time: x hours x minutes x seconds"' when the game ends,
 - A button called 'RESET AND PLAY AGAIN!' that will replace the numbers on the boxes again, and reset the game and the stopwatch.
 
