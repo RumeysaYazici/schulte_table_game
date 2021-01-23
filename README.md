@@ -3,7 +3,7 @@
 > Schulte Table Game using FLUTTER
 
 The Schulte Table Game includes;
-- A grid with numbers from one to 25 on it,
+- A grid with numbers from 1 to 25 on it (It is 5x5 box.),
 - A stopwatch that starts as soon as you hit a number, 
 - A line that holds the last pressed number, 
 - A line that holds the best score, 
