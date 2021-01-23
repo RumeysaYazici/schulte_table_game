@@ -11,7 +11,6 @@ The Schulte Table Game includes;
 - A button called *'RESET AND PLAY AGAIN!'* that will replace the numbers on the boxes again, and reset the game and the stopwatch.
 
 
-A new Flutter application.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
