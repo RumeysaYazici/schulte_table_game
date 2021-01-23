@@ -10,6 +10,7 @@ The Schulte Table Game includes;
 - An information box that appears and says *'Yes! IT IS FINISHED! "Total Time: x hours x minutes x seconds"'* when the game ends,
 - A button called *'RESET AND PLAY AGAIN!'* that will replace the numbers on the boxes again, and reset the game and the stopwatch.
 
+
 A new Flutter application.
 ## Getting Started
 
